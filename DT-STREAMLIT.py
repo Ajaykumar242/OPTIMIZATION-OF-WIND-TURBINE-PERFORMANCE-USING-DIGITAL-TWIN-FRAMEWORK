@@ -1,4 +1,4 @@
-# app.py
+
 # ==========================================================
 # WIND TURBINE DIGITAL TWIN – THESIS DEMO (NO PLOTLY)
 # - Simple UI (3 pages)
